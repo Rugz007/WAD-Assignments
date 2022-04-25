@@ -1,0 +1,28 @@
+.user__container{
+    border: 2px solid black;
+    margin: 2rem;
+    border-radius: 12px;
+    background-color:rgb(244, 234, 161);
+    font-size: 30px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.input__container button{
+    display: block;
+    width: 200px;
+    margin: 1rem;
+    height: 60px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.input__container div{
+    align-items: center;
+}
+
+.btn_grp{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
